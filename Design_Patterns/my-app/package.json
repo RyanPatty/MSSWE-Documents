@@ -1,0 +1,13 @@
+{
+  "name": "abstract-factory-student",
+  "version": "1.0.0",
+  "description": "A student application using Abstract Factory design pattern",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["abstract", "factory", "student"],
+  "author": "Your Name",
+  "license": "MIT"
+}
